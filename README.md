@@ -149,7 +149,7 @@ Based on the interview evaluation, the platform provides recommendations that ca
           │
           ▼
 ┌───────────────────┐
-│ Record / Store     │
+│ Record / Store    │
 │ Candidate Answers │
 └─────────┬─────────┘
           │
@@ -161,7 +161,7 @@ Based on the interview evaluation, the platform provides recommendations that ca
           ▼
 ┌────────────────────────────┐
 │ Technical Feedback         │
-│ Communication Analysis    │
+│ Communication Analysis     │
 │ Strengths & Weaknesses     │
 │ Improvement Recommendations│
 └────────────────────────────┘
